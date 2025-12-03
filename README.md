@@ -1,5 +1,7 @@
+
 # dns_guide
 DNS_Guide_for _oppresive_regimes
+
 Every authoritarian system has learned to weaponize DNS, metadata, protocol misconfigurations, and passive traffic analysis. It is cheap, silent, scalable, and impossible for the victim to notice.
 
 Chapter 17 explains:
